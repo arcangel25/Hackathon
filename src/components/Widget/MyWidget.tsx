@@ -52,8 +52,6 @@ export default function MyWidget(props: MyWidgetProps) {
             </div> 
             <style> 
 
-
-
 </style>
             </WidgetBody>
             {/* TODO: optional, create a widget footer */}
